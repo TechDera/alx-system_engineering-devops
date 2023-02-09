@@ -1,1 +1,2 @@
-Display current directory contents in a long format
+Task 0 Where am I?
+Shell Permission
