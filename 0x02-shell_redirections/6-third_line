@@ -1,2 +1,2 @@
-#!/bin/bahs
-head -3 iacta | tail +3
+#!/bin/bash
+head -3 file_name | tail -1
